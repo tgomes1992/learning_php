@@ -2,7 +2,7 @@
 
 <head>
 
-    <link href='static/style.css' rel='stylesheet'>
+    <?php echo '<link href=' . '/static/style.css'  .' rel=stylesheet>';  ?>
 
 </head>
 
